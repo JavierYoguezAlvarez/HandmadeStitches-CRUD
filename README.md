@@ -4,7 +4,6 @@ Aplicación de escritorio en Python para gestionar información de HandmadeStitc
 
 ## Archivos principales
 
-- `menu_cmd.py`: aplicación en consola.
 - `menu_grafico.py`: interfaz gráfica con Tkinter.
 - `cnx_pg_handmadestitches.py`: conexión a PostgreSQL.
 - `cnx_ss_handmadestitches.py`: conexión a SQL Server.
