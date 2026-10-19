@@ -42,13 +42,7 @@ Los paquetes declarados son `mssql-python`, `psycopg`, `psycopg-binary` y `pytho
 
 > **Seguridad:** el archivo `.env` contiene credenciales, por lo que no debe subirse al repositorio. El archivo `.env.example` solo tiene valores de muestra.
 
-## Ejecutar los menús
-
-```cmd
-python menu_cmd.py
-```
-
-O bien:
+## Ejecutar menú
 
 ```cmd
 python menu_grafico.py
